@@ -3,7 +3,7 @@ name: User Story
 about: Create a report to help us improve
 title: ''
 labels: User story, ТРПО
-assignees: ''
+assignees: M1SHGAN1
 
 ---
 
